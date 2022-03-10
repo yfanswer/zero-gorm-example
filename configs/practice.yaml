@@ -1,0 +1,1 @@
+DSN: root:123456@tcp(127.0.0.1:3306)/zero-gorm-practice?charset=utf8mb4&parseTime=True&loc=Local
